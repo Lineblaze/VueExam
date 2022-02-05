@@ -15,6 +15,13 @@
     </div>
 </template>
 
+<style scoped>
+  li {
+      border-bottom: 1px solid #fff;
+      margin-bottom: 35px;
+  }
+</style>
+
 <script>
 
 export default {
